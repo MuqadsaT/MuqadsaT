@@ -53,6 +53,6 @@ curious about the universe, life, and everything in between.
 
 **Let's Connect!** 👋
 
-[LinkedIn](www.linkedin.com/in/muqadsa-i-7a4499b9 'Muqadsa Tahir')
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muqadsa-i-7a4499b9 'Muqadsa Tahir')
 
 >**Fun Fact:** I can solder electronic components with impressive precision!😜
