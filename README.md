@@ -3,7 +3,7 @@
 <!--#### Visual Break. This is a level 4 heading. I intentionally used a level 4
 heading after level 2 for stylistic purposes.-->
 
-### **From Circuits to Code: ⚡️ My Data Science Journey**
+#### **From Circuits to Code: ⚡️ My Data Science Journey**
 
 As an electronics engineer, I've always been fascinated by how things work –
 from the intricate dance of electrons to the complex systems that power our
